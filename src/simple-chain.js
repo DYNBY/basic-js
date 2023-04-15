@@ -30,7 +30,7 @@ const chainMaker = {
                         let resString = this.chain.join('~~');
                         this.chain = [];
                         return resString;
-                      };
+                      }
 };
 
 module.exports = {
